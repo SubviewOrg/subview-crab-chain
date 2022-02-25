@@ -1,0 +1,17 @@
+{
+  "repository": {
+    "type": "git",
+  },
+  "private": true,
+  "name": "subview",
+  "author": "POA Network",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
+  "scripts": {},
+  "dependencies": {
+    "solc": "0.8.0"
+  }
+}
